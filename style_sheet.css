@@ -1,0 +1,44 @@
+
+body {
+    background-color: black;
+   
+}
+
+h1 {
+    color: yellowgreen;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a:link {
+    text-decoration: none;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: yellowgreen;
+    font-size: 28px;
+    
+}
+
+a:visited {
+    text-decoration: none;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: yellowgreen;
+}
+
+a:hover {
+    color: rgb(140, 33, 189);
+}
+
+hr {
+    border-style:double;color: yellowgreen;
+}
+
+p {
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: yellowgreen;
+font-size: 18px;
+text-align: center;
+}
+
+
